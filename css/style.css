@@ -52,7 +52,6 @@ nav {
 }
 
 nav ul {
-    display: flex-end;
     padding: 0;
     margin: 0;
     display: flex;
@@ -442,7 +441,7 @@ a {
 .activités-ma h3 {
     border-radius: 0px 0px 20px 20px;
     box-shadow: 2px 2px 8px #e2e2e2;
-    bottom: 19px solid transparent;
+    
     background-color: white;
     white-space: nowrap;
     margin: unset;
