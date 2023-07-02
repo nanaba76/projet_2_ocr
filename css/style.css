@@ -17,6 +17,7 @@ body {
 
     margin: 0;
     padding: 0 30px 0 30px;
+    overflow-x: hidden;
 }
 
 main {
@@ -628,11 +629,11 @@ footer {
 
     .populaires {
         order: -1;
-        padding: 30px 20px;
+        padding: 30px 10px;
         width: 375px;
         height: 570px;
         border-radius: 0;
-        width: 350px;
+        width: 97%;
     }
 
 
@@ -641,7 +642,7 @@ footer {
     }
 
     .populaires-cards .card {
-        width: 100%;
+        width: 97%;
     }
 
     .hebergements-titre {
